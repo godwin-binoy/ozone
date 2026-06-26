@@ -1,0 +1,10 @@
+{
+  "name": "Dev Container",
+  "image": "espressif/idf-rust:all_latest",
+  "forwardPorts": [],
+  "customizations": {
+    "vscode": {
+      "extensions": []
+    }
+  }
+}
