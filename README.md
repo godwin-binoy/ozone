@@ -4,7 +4,7 @@ A seizure detection algorithm based on data from accelerometer and gyroscope.
 
 ## License
 
-This project is jointly owned by Godwin Binoy and Ahil Muhammed. It is licensed under the **PolyForm Noncommercial License 1.0.0**.
+This project is jointly owned by Godwin Binoy and Aahil Muhammed. It is licensed under the **PolyForm Noncommercial License 1.0.0**.
 
 ### Key Terms:
 * **Permitted Use:** You are free to use, modify, share, and build upon this software for **noncommercial purposes only** (e.g., personal study, hobby projects, research, or use by charitable/educational organizations).
