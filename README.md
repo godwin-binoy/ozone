@@ -1,5 +1,7 @@
 # ozone
 
+A seizure detection algorithm based on data from accelerometer and gyroscope.
+
 ## License
 
 This project is jointly owned by Godwin Binoy and Ahil Muhammed. It is licensed under the **PolyForm Noncommercial License 1.0.0**.
